@@ -56,7 +56,7 @@ const BasicDetails =() =>{
 
                 </div>
                 <div class="text-center pb-2">
-                                    <button class="btn btn-danger me-3" onClick={save}> Save & Contiue </button>
+                                    <button class="btn btn-info me-3" onClick={save}> Save & Contiue </button>
                                   </div>
           </div>
          </div>
