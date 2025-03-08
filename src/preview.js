@@ -9,7 +9,7 @@ const FinalPreview= ()=>{
   let projectdata=useSelector(state=>state.MyProject)
 
   return(
-    <div className="container mt-4">
+    <div className="container mt-4 mb-5">
        <div className="row">
             <div className="col-xl-6 mb-5">
                   <div className="card border-0 shadow-lg">
